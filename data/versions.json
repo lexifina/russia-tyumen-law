@@ -1,0 +1,1195 @@
+{
+ "country": "RU-TYU",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2014-10-28",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b61de51ad000ce22e0db38c9a922293d8f87ce917ac64e7390b4c4392764ff2d"
+    },
+    {
+     "from": "2014-11-10",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b4da3bd3bca9a0219b18af9c53dbaf350966823cc6a0e947b6d65990c75748fb"
+    },
+    {
+     "from": "2014-11-24",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3a949ac407e12919824eb433196d8660649b1a0685c166a7e4823cd4c895d43a"
+    },
+    {
+     "from": "2014-11-28",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "60ce99f5b70c17f39c0c0ee97c1d6e355e2b8b8ca4ae41ad2227156cc2672384"
+    },
+    {
+     "from": "2014-12-03",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "aca9995df292f6cc983d4f4aa1b5b208616fe2bb779926efc29c7a31bf97c3f3"
+    },
+    {
+     "from": "2014-12-18",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e6d2f504ed2d0d6aa69e0b004db6a3d188392b713d62a84694366403a658f2b1"
+    },
+    {
+     "from": "2014-12-26",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "513e0267084facffb6a97dbb92328693247d0621ea1a7ff0f7db1a180db6ad07"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2015-02-25",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "1567a5bc5a737502a9ba3b3788d26acd48b5e2ab2daa295369886c90df86d18a"
+    },
+    {
+     "from": "2015-03-24",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e950cbbd7a03b1d47bbea4988cdb16af9bad2be4eb9ba0943f5443b0f9a77095"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "136d2d1ab7e91f7759be72cc36bfa4648f746478b4500935dc34df70b294e420"
+    },
+    {
+     "from": "2015-05-08",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e86187b427e23aac918ae8857c281d6c03df2801c35e87cfe4e563ab056e21ff"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "25bcdbd4de6bc4d0e03423f3ac7dcdbd381ca96a4b5c1dd3cd5a07095c52c5f0"
+    },
+    {
+     "from": "2015-06-16",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "63dfe3a2e1d79c796c7529d4a8912e6a05814a36d472eed17dc140487102ca30"
+    },
+    {
+     "from": "2015-07-06",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "2feccf5b45587e792863ff13debaf85bb6002893df80e012539ffbf4bcd576d1"
+    },
+    {
+     "from": "2015-09-29",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "f6a98b751f1ff727df1672135b00cfd89034bb08ab9249f28daff84169621368"
+    },
+    {
+     "from": "2015-10-14",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0ac0b5f44f54032b7cc84f7d61c30a9829a4a7667fb8a9a056ebded81753c679"
+    },
+    {
+     "from": "2015-11-05",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "2d8db7733a52b8878b9d86e2494f5713d202c72d6a367a07d0185a986891f491"
+    },
+    {
+     "from": "2015-11-27",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ffa832e14a25c547268b5daef41830d7b353616b427776711d808a2e03cfadeb"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 143,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "5789bcd99c21edb44f277bca9007668a60b82bd4eb3113cff358fad6aa32b0fd"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 144,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "568dd1376eb92fe90593e41e6e1da79b6f85ce68ea41d7acb0e095f30bdf4d70"
+    },
+    {
+     "from": "2015-12-28",
+     "units": 162,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "4d5b1d7b52abff75d899b354853bdf223bf4290949c288dff43631ddeda39b9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "decf09ae0ede337d1cd6901a3693e70e1be1643c66f0a712fc490ea82bed8d2c"
+    },
+    {
+     "from": "2016-02-18",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "1fbf7fb8cbba1ba80182eb4a79b8f12091cdb3eef9d54ac2d5dac4398568c50c"
+    },
+    {
+     "from": "2016-03-29",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8cfe68817f497244e3bead1348b1a003b31427684e0238a7a8c82d14082f0bb9"
+    },
+    {
+     "from": "2016-03-30",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3b4f9f0826b86a5a80c5bc433414c47391dbb1243d162406ae452cea51df26cf"
+    },
+    {
+     "from": "2016-04-29",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "bb28d8c50dd2e4c720f2859c135759b3cf3883fd88dcfe7fb377af6c303e20a3"
+    },
+    {
+     "from": "2016-05-04",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "f96d8a7a6e31aec450ea5a75be58a6edfbb1e32951e894bc4852634611fde29f"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b8a1038cbf26064e7ee4d0b71ebdc10c0df3181fe4abd90f255224b0ad7409c5"
+    },
+    {
+     "from": "2016-06-24",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "db1ca85db5a5c55e7f7bc3c44ef6a40b1b0449e2d5d66e8762f0e638395e6273"
+    },
+    {
+     "from": "2016-09-16",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "62df759b9fbcef3f61494797b4bbbe80c4845752a970eee6e0f5ba5999c11864"
+    },
+    {
+     "from": "2016-09-20",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "07077d182f7a90c49d31490f21808c07e024aacfe2d72ac7bfb74282383b2864"
+    },
+    {
+     "from": "2016-09-23",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "843f155b3e2ca440d5ff3a0a481a72666b2605aa6d72a134d24d39d5466325a4"
+    },
+    {
+     "from": "2016-11-09",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "d3d0b306deea6119af05070a21824cd9612fde2967db9b64f0f55d9a197174de"
+    },
+    {
+     "from": "2016-12-12",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "1d5fa42e2a5bf62f70a108e44a0e6706e6e98c29229ac43fff107e912763c115"
+    },
+    {
+     "from": "2016-12-23",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "28a2286a6b192eb4626e827f913e70f49eb12f1c21ffac35634482a29d6e64e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "1e3bd58b4013b3e60cb5b96401b70d5a03246c94e66afb22e0001f07773ef801"
+    },
+    {
+     "from": "2017-03-23",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3d471fee03f686d8443866555b167029a4962fb16aeb04aa5c1f002e5f9e2349"
+    },
+    {
+     "from": "2017-05-04",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "4b71c1e7d3f5b9b0a8a7924e9eab1751bf2775874aebcd7889a7d2f9154dcde6"
+    },
+    {
+     "from": "2017-05-25",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8276d1d11dbb3786ce7e4f4c9d6c3f846354779b7532669a441b2fa9721df246"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "661c136c58e36a347cec34770c62ed6044f9d6b2348c378cfb3966706f01800e"
+    },
+    {
+     "from": "2017-06-27",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e0c2495e78748fa35fa5b4c10134e2887a8f0bfc3b0baa53bbbfcb6369f510b4"
+    },
+    {
+     "from": "2017-06-29",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "6e4eca9f4a68e2b5486f28aca2a10654a7ee01d88dff505a7a498277582ced01"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8b0670bbe626b3371d835191596f6405fe2943e48537336a1bfe3e7d231ea0f9"
+    },
+    {
+     "from": "2017-09-06",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "015d6862fc59c78666c2928eb65c57f7e75e150d3cee877846811e1561223e2a"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9c4534b4abebbb1c025166e06aad4380bddfc284b1912b39685a826c1f855e51"
+    },
+    {
+     "from": "2017-09-28",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ea616220035e426fc87bcfad8b7404d227819f6f5692c0003e23b5566f9f800a"
+    },
+    {
+     "from": "2017-10-24",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "de6b9d8ee10fcefa7dd19c8445fbc5b9065084f30e67a5f232fb347cb461eb2e"
+    },
+    {
+     "from": "2017-10-27",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9fa78e19646f7472490a0c09ccd6f204e3a9d6c21f5e17fcc2440ee1e8c5dddd"
+    },
+    {
+     "from": "2017-12-06",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b4fb4219c1bdc7c5622a7117b8213fee222a6af1988bf9c62588c5913ea09350"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3613832ffe1c3bed8e5d8f26a5eee4cdddcfff671fcb22c9daed364e6d7ab173"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "5311d56c05aabe78935ca38560848a411b00b25762ac573630a3894452163712"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9091849d21ff26b633bc0c7ef11e1e5931d8db408da35bd60e49ff82c574c8f2"
+    },
+    {
+     "from": "2018-03-23",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "700eae79c827871852754767741a14cf2eaf026206ebb8f7e5ce33b1601fc9e1"
+    },
+    {
+     "from": "2018-04-26",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9b16c39f6999cb486ecfc5413a621d10a0a21a3c14deda33d4158ac856395d90"
+    },
+    {
+     "from": "2018-04-27",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "fe28357513017a7528046d5a97a6ec7890db440d51c369f9123f4f28e1247100"
+    },
+    {
+     "from": "2018-06-06",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9b43fbfd3b0412b6a3ec95bcd717fe6882024f2d2be5112610473a5cdc331e6f"
+    },
+    {
+     "from": "2018-06-21",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "f60ce3b1aea37e0ea515de66a664133078e3d794e00455d8a3f6fe76d5794ffe"
+    },
+    {
+     "from": "2018-07-02",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0c05c954b9051561addf033df801284ec02ea5d1ca30a194fd78a2ebd59cef46"
+    },
+    {
+     "from": "2018-09-21",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ae8c668aa6aad884c060768b26b9ed49e11d11016469ce528630fe8e2ec635c8"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3c5274db830bf49d9b02586cd5dfe5883e88ba46cb183b4ecd2b84fe4f90e88e"
+    },
+    {
+     "from": "2018-10-29",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "71e3206104c04c4bd6e131fa94f833792e33f74d07c44bd4f625f38cb49c6bf4"
+    },
+    {
+     "from": "2018-11-26",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "434ad007e94caea4016f26a854e3caaacf556fafcff0898a057589e46eac1354"
+    },
+    {
+     "from": "2018-12-03",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "4b3c1945f54d8884a751941214e0e4b16c5f910a96185db7d95ca99a483b552c"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "979759efedc64601fb4f0a8a2ef82611519b6550cb4929e22b3470bd44d92a56"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2019-02-07",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a7df12ae5dd49421a998fe2e3c50d9695000d95ec24465bb87c8de8f52a521c1"
+    },
+    {
+     "from": "2019-02-13",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "c63f8e665d719df8d6debba806e3f325a6a6e51a6a588ac1524cd72883411b17"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "f15048c0495f215d3ec3a00c4c71f0af3ae5cbace547744043afd4ee0ece93e3"
+    },
+    {
+     "from": "2019-03-20",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b57107116c2309b53cece211829e3e0a89461c579e202ebfbac37f8a1adbb9de"
+    },
+    {
+     "from": "2019-04-19",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "862f4145f7111cfcd5451e3c1af4728b36ca1e770187b5c438fa0e986fd072c8"
+    },
+    {
+     "from": "2019-06-06",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "d50f3e8a2fc8c3b721f93ffebad9bd7118dfaa051069ce2bfce0f9adb9d22cfb"
+    },
+    {
+     "from": "2019-06-21",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "fd5824c2af8350c01b7d09d629ad3e7d131b41b93092eaabb262ad68248fb7d3"
+    },
+    {
+     "from": "2019-06-25",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0a3b280b269a899f74bcda889c2cdc24882d963506dec87536a3f87388de39f7"
+    },
+    {
+     "from": "2019-06-28",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "364d4630a49fdf853ec891baadc17bbe5f59615d8ce1bb7ecdfe146c125e6f6f"
+    },
+    {
+     "from": "2019-09-12",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "16861c930b48fcee60d7aaabdef6fe1e0b0f506d92e1deccf42c541ed2909ce4"
+    },
+    {
+     "from": "2019-09-24",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a9128d06261c9405daf19d1f09e0c26fb79d5be36b46f495e22312922e625f3a"
+    },
+    {
+     "from": "2019-09-27",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "c1e70b91a21943672fabb2777a102576b36a977d84732f8d30baba4ad39fdb46"
+    },
+    {
+     "from": "2019-11-05",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "891ddca73185b21d7acf3d2fbeda0fde7b9d65fb44a122556880fbaf32d6a8d2"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b6112b3799b2ec4fe784320a87356734f7340d94d10fb24633d985b93a2fe977"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0518be23aec3b6a03c25c2461330f1adcceb9d7b00a6d5840f0b5710eab14cf5"
+    },
+    {
+     "from": "2019-12-17",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b79b33a7ffbbedbf63de87cb318083504e4bef9f2a054a562e75480932236395"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "81d642c5c79afd4e84b1892e27869b62498878276e2ad02ee26fc35c36b0f3a7"
+    },
+    {
+     "from": "2020-02-21",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8452a7b48b2b12367e3775bd915f41a73610fd90f502507d552309f0926625c8"
+    },
+    {
+     "from": "2020-03-13",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "c00ceb14a4b6ca9c2a0067ffdcd81c7b3f931ec47e1a1748cd8b69dfd9ca7505"
+    },
+    {
+     "from": "2020-03-24",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ac16bf90339fca8c0a9d9f7b451b2176a9e894a445ebe37ec7c3641e36741f24"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "5ab03cbcfc783ec568df259b80f8d850f07520e88a3090e28c7799e6ca385232"
+    },
+    {
+     "from": "2020-04-10",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a1a60599cdcc1552a8a3c1a789adac2a96e8c4eff455eafdb7dfdcabd9df0eeb"
+    },
+    {
+     "from": "2020-05-06",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "353ede642b7c843e12e9ac80a01243e193113b1f401d461cf4140c06841a6b08"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8d934aefb0ea216fbc9bda38e2c5f109b209aa13064cf47af58da074bc9f9ff4"
+    },
+    {
+     "from": "2020-06-30",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b436c56b5b798d675eb11012d0b61cf08429d89585c3491dfe865ac0da80e71e"
+    },
+    {
+     "from": "2020-09-11",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3b8d6f0c55bde16108cc468ffaf6428782e92fe90a574c094a6f945e0ff68f10"
+    },
+    {
+     "from": "2020-09-28",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "f226ebeae81f07f75689691e80fe2c5df43427bcc473b07c67a5f0b8471754b9"
+    },
+    {
+     "from": "2020-10-02",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "7335bead04e75deb16d8a33ddaa34ae2998de4c51158f77551b8b5e63aa5c690"
+    },
+    {
+     "from": "2020-10-26",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "3004b7d75afdb63f24a5ffbe2f351df3a302cead3aff8865cb21f0deae256486"
+    },
+    {
+     "from": "2020-10-29",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "53b38d189536ca7bff5e628da81880560bad88f30bc9e2848ad6c125deadc975"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "7cc1eef33d906251eebc55b8f9333473237553223ddf4a3145ed824fd36c9aa7"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "24b827853dadf41e8479dea757e04d962f6d47bed4d40152ff495ddd460ea301"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "6d346f6a43b9b5e2d5530e189236e15ea566f450ee0518a851d8cd37d19e6310"
+    },
+    {
+     "from": "2020-12-25",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8cc4a5ac083dd317da07ad01187dfbe868ab0812b3a651d3c61f050d43ddf295"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "43d7210995cd6ae6b119bac3e089d90606b151c110178522c934f4b54e39c204"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "45eff1b59371c2e0f312f5e1cee1dfaf9c96e9fb43c48292c04232fed886d02e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ff1432753d537b2e1ee04ad8f74389b1679ccd86038524da444b6d86fceda4ad"
+    },
+    {
+     "from": "2021-03-25",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "6fbd81d2336159795f1c5c291daa86ba1fc16ba485a77a4ae44c6cead68190de"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0198bc953d63478fdbb47a2577b5934ec7a1b2bb646ef3310bac9af45d6e6536"
+    },
+    {
+     "from": "2021-04-26",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "40a98bf120bd583222f845d3706f01e53c7164800897afc8c48130cb08f0dfb0"
+    },
+    {
+     "from": "2021-06-02",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "1c8965584386853ed725f07c741e38a9ba880aac6a481ed483f66fd1a5828da6"
+    },
+    {
+     "from": "2021-06-22",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "cc9c486a35f5eb1204c94966a42746f3daf075a1977d3eff24864415504b9b75"
+    },
+    {
+     "from": "2021-07-16",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "793ff6ae59d59592e72cde92f5a0985e3824e3663b3415872952650be02ce742"
+    },
+    {
+     "from": "2021-09-21",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a34993c1e3c2ca90adc2f3e4621d306d0dae47cb58a561030061e380c35e4a29"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b06d9b31a5c518939b47c3593ea1eff7e3f94beaffed0e0f9dc58e4a8693556d"
+    },
+    {
+     "from": "2021-11-26",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "2fe32c49d63a15d663679b9d57c27936511c5a06406fa8b13a1fa549286cbf46"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "7068dd312d5ce3e2198c31baf93d817a9a2d6332efa57ac26e2fa09206de5e50"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "c474d4b2903df42f7d54ea834e40e37ed0f1ca5dae039fbecd603e62853cab5f"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "839d6a3e62256254bb1fe4a40b8efb4368d3d8f66f5ec649f6ee2f4d590f1090"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a5cb74d6029614decd542f46b642341557b1d3b074f0431542364fe1b4d84528"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "374ebdf598696fe922674dbc487d2d7cbe209fccf50ce76c631ee69fd51ce381"
+    },
+    {
+     "from": "2022-03-22",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "cc8e75aa69be03c8c046e7152264594e545c6800f41ae7adb4f15739b3146bed"
+    },
+    {
+     "from": "2022-03-29",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "96cfe7952b1e66958d26f38e64660c275e16bde0b499927dd9aab4dc4d63b866"
+    },
+    {
+     "from": "2022-04-15",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "010995ecbd2444c266c5c44be0c2ea587af67e47239baba14f93d66ccf69fcda"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "74c8ebf490651803d4c74ab63fcf0f63608bfa997deeab0652ba207453c276c7"
+    },
+    {
+     "from": "2022-05-30",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0c925403886ea7de8018749f7a8bc89c1fa7cf0b39d8e8492ee35f799ec43173"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "077ed38ed239c60c6753f102e1ac0f308e5d4d154edef6cc14887a7f4816e247"
+    },
+    {
+     "from": "2022-06-27",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ff8b0e53fd168798d7fcac212eb0b1d1054b6b88e81439e3fd805dbd8636f6ce"
+    },
+    {
+     "from": "2022-06-28",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b59cd825a7e94cc0240ee1649a01095d6148c99627f8fd8d74b2ce2425e50305"
+    },
+    {
+     "from": "2022-10-03",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "335ea6f8391aa796b0a3ba032690ad48d5f03c0bd6cf5d1444c174b0ad0cc3eb"
+    },
+    {
+     "from": "2022-10-27",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "fa89e5a13abd2d6e05127463c692f99035f28846b1d10efad7623817861b7962"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ed3c9e13cd921a26d3ca63f614947ced75d47773c965be29a733e50ca92194c4"
+    },
+    {
+     "from": "2022-12-05",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ce5a10189ab49655fac14505a7a5a558dff651a83f4d73bc3ecf282283da7554"
+    },
+    {
+     "from": "2022-12-06",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ac44de72e0e9a25cf84f9612a568f8cc3d9d513af00c5f5acb821ca50d7b0ace"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "b487d9984ba86310df5668232a4df2fbe90ecf5d8a7949a4fb7f99dc81047b87"
+    },
+    {
+     "from": "2022-12-26",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "beab99f97f3c70d1d1fd7976869091a06dd1a0014b051b6c0c5a2cc6c2d464b9"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "0d8969f29d0bb268521b81622f8e3eaf1d30c3027c50593f4f3590d5ea057c3c"
+    },
+    {
+     "from": "2023-02-07",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e863968ce17fbca3fe953d090b782d5b535f841069d3afe4a815e68fb25ab144"
+    },
+    {
+     "from": "2023-03-09",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "03f616305aea51b8ada83fe421a843d0a00cdf01fe1afce2c8a00fe0f6541205"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a135717790f1d5fceda691d1503dbf4295b708eca4a5efe91ecf9425610e28e3"
+    },
+    {
+     "from": "2023-04-26",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ccbdb0c6d7953bc2827e52743087374d20d4fd8c5051a03453f4f5b16758d59a"
+    },
+    {
+     "from": "2023-06-19",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "259bbae751828ba9440be4be4b301082393ab4b1c962e629adc0492dbf3a426f"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ca8ed65e1bed52bdce157a8501b67e31b00abcbcab8c52e8bd782b0db087ff74"
+    },
+    {
+     "from": "2023-08-03",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "01add2552195929e43a7233981439decedce875731e1fb9f20d167f61ea536e5"
+    },
+    {
+     "from": "2023-09-22",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "4a0b0c05eba766415584f5950768ea9d8b32c09ca3e8a9162a225615c144f45e"
+    },
+    {
+     "from": "2023-09-26",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "389381da13f4ecd882adce82442fcd4fe4740ac8542dffd5abc8c489785bb8c5"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "a432fec6b26f346ce13833fee038bff425d820316f681a0384cc7fb1b9451078"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "4f4763ab49ee38a3f56513db511a46271cbb912c0be2674a6f0b7456f7253d8b"
+    },
+    {
+     "from": "2023-12-21",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e289e7e20369015f2c4b5c5955059a1e685748c020fa86c2d5abed8f18aba697"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ebfc2ee8f8a687d0e3066de14b632b68e90b7fa9e45eb1401c7d9909528985ee"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "54ed24f4bbaa1bffd24f0c9b25a2e6ad748a1b2b0a9dac3293cda4c6b2598739"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "60cd34e6730c34f9648252e25d48394ba0ca02f78726f0cb647ffa377e43c1a9"
+    },
+    {
+     "from": "2024-04-26",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "800b9bda6d32365f0e90ee6f4738a6894d486135bbe114179a0bb44cf3eb1410"
+    },
+    {
+     "from": "2024-05-31",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "7dc036d24ee49b0846b8f9f17fafb2030cd88f7effbedb29bcd5d47223164c81"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e4b1fdbccb277d68c02c4d0f65c19e55dc0b5f9a803c087ebc21bb979c6a9bdb"
+    },
+    {
+     "from": "2024-06-18",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "843e5a2c679f4453c1ca8a4195cfae97991c9035405407a405a13704b06df9a6"
+    },
+    {
+     "from": "2024-09-20",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "d9bff55c6e0ac46c88488bc5e4f006f51862735b60f9f7509e76ca8bc0e410d1"
+    },
+    {
+     "from": "2024-10-24",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "962836e0138ad440c1e1b129cdfcaa255b4d702e17292a6d2a2913036d9a86a6"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "d57289bdca79a763811d006253551e2be0e92c129aeb1505cd9e51be1803cf8a"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "d3bb6faea3facfaa9d42ebee7646b025432dbcd41bd05edb784e94c861d4f677"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "5a059b62eda9c01af9b27b5ad854d9200c0678ea6095283955c5e8e974f1e79a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "91134483dadb06b71a1ed2f014985e2bed605f8cf10b61dac887cd51a722d0b2"
+    },
+    {
+     "from": "2025-02-25",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "1e48bee7f82119f9a016a7c3e19435641305d1b673636d09d94768955a20aa96"
+    },
+    {
+     "from": "2025-03-25",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9d641162d2b427c6de820e8596c9764b9c0f6cbb29509f338496dddc5a65eeaa"
+    },
+    {
+     "from": "2025-04-24",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "faeb9fc47e7b767b24cbfecbf5e43060b64aed036ef1b1cb9ff4db891b809e04"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "e7372e49ec3b6dbbe660d6d7baa724f26b999d8e5ba628d2718d18397af90e0b"
+    },
+    {
+     "from": "2025-06-23",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "34c4867813d13f5831b558b00e78bbc3837e9d0a078a07519865ded9f8c90353"
+    },
+    {
+     "from": "2025-06-27",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "d25196bced048613b303f0b855ee88e94a404643cbe26163a9dfeed5867c2b2f"
+    },
+    {
+     "from": "2025-09-22",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "47099e4fd08875b658c77a5e91f1295106ef6f2b2d2ce807f48847c570fbc373"
+    },
+    {
+     "from": "2025-09-23",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "fa35f2f3195e66689f3f54c854c17ee09ca2e1d08468277fce3f6dde1d3f214f"
+    },
+    {
+     "from": "2025-09-26",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "f6d8d4cf604529bd69d9037f26e82fe7171994ba15189ee7bea1d848e4ae8d50"
+    },
+    {
+     "from": "2025-10-21",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "eab27d7c20fd8f5cf9126cbabb61d42c77d19874ee126026de0e14c6282de218"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "6acc44ef339484eb7f775d6f2811f6cc8ad44e6d3057a5ba44a766ad8974cb9d"
+    },
+    {
+     "from": "2025-12-02",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "8c8d53ad4712676a30d97faa22af03b97ee67a65d76d8db972d12f8bc5776c4f"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "24c33afe30b49cc60fc690602290c3e2a85b575aa8610d61f353ed4c6393ebcd"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "9a140a965a09303ba90def551c3d2c4f903ac645e1e278380e5d2c8518d34d99"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Tyumen Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "41c2c605f2430e0593461065653be54dc612295a8d82c7418ad4db3903b5e25e"
+    },
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "10320c66d80c7f1fcb334fd51b063b504f2f2b5e517791f9811decc032b6f990"
+    },
+    {
+     "from": "2026-02-09",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "dff3d6af728a1d86ceceac853708a5e66eacd94fddd6cf053520e8bcd83dc62d"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "953c59f902b163dc69166a1ea7806db72cc819431cb78c354026ada8a0214660"
+    },
+    {
+     "from": "2026-04-20",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ddcff454099a562d547bad2d240c34b1d58a4809803c57e470e27c828db4abdd"
+    },
+    {
+     "from": "2026-06-02",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "83d13375e456216007d5894908c5be288d7e3f90ab5716cfca49200c12d08a47"
+    },
+    {
+     "from": "2026-06-23",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "7baefd6db1ba9b2abeeb8f7e0b41dc2a0b6b0bbfe68aed9985e5d8f11f5a7764"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "32b9354f0285925ebea4802de750085618d9850720c88e736c299c4eb8ce2aac"
+    },
+    {
+     "from": "2026-07-31",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "ab19c0e551c71237e07a9c1f5849466da3fc466f4dd3a9d4b4b5496d3bbc21a7"
+    },
+    {
+     "from": "2026-09-22",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "96fb85726ad36cefc13b95b1523585ec2c49f998ab6a4ce24e0b37360d38172a"
+    },
+    {
+     "from": "2026-10-27",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region72",
+     "sha256": "7bf6bf046d79074fdfe0b988e01020940ba07f8bcd51b6398723afc312055052"
+    }
+   ]
+  }
+ ]
+}
