@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-tyumen",
+   "kind": "legislation",
+   "name": {
+    "en": "Tyumen Oblast: Official Internet Portal of Legal Information (region72)",
+    "ru": "Tyumen Oblast: Официальный интернет-портал правовой информации (region72)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region72",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/tyumen/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-tyumen-law",
+   "group": "pravo",
+   "tz": "Asia/Yekaterinburg"
+  }
+ ]
+}

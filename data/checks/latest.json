@@ -1,0 +1,88 @@
+{
+ "generated": "2026-11-24T15:00:22Z",
+ "latest": {
+  "pravo-tyumen|russia/tyumen/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1387,
+    "current": 1384,
+    "gone": 0,
+    "held": 1384,
+    "newest_in_repo": "2026-10-27",
+    "pending": 3,
+    "repo": 1384,
+    "source_in_scope": 1387
+   },
+   "check_id": "ru-pravo-tyumen-20261124T145912Z",
+   "commits": {
+    "count": 2,
+    "from": "02ad72108afc76846f476fd5f8955d33aae31f39",
+    "to": "4ea909e0b6e889d233452512bb4d8a7ed5dfcbb6"
+   },
+   "corpus": "russia/tyumen/acts",
+   "error": null,
+   "finished": "2026-11-24T15:00:21Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region72: 1387 law-type documents listed (every page read); 1384 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "7200202611130001",
+     "7200202611130002",
+     "7200202611130004"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "7200202611130001",
+     "7200202611130002",
+     "7200202611130004"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1387 law-type documents in block region72; newest published 2026-11-13",
+   "source": "pravo-tyumen",
+   "started": "2026-11-24T14:59:12Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 182,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
