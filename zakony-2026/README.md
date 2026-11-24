@@ -1,6 +1,6 @@
 # Tyumen Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 11 versions, from 2026-01-23 (latest in force: 2026-10-27) · <http://publication.pravo.gov.ru/documents/block/region72>
+Законы 2026 · 12 versions, from 2026-01-23 (latest in force: 2026-11-13) · <http://publication.pravo.gov.ru/documents/block/region72>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -84,4 +84,7 @@
 | Закон № 8 | [8.md](8.md) | 1 | 2026-02-09 |
 | Закон № 80 | [80.md](80.md) | 1 | 2026-10-27 |
 | Закон № 81 | [81.md](81.md) | 1 | 2026-10-27 |
+| Закон № 82 | [82.md](82.md) | 1 | 2026-11-13 |
+| Закон № 83 | [83.md](83.md) | 1 | 2026-11-13 |
+| Закон № 84 | [84.md](84.md) | 1 | 2026-11-13 |
 | Закон № 9 | [9.md](9.md) | 1 | 2026-02-09 |
