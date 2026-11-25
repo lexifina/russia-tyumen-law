@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:00:22Z",
+ "generated": "2026-11-25T07:03:25Z",
  "latest": {
   "pravo-tyumen|russia/tyumen/acts": {
    "attempt": 1,
@@ -13,33 +13,25 @@
    },
    "census": {
     "checked": 1387,
-    "current": 1384,
+    "current": 1387,
     "gone": 0,
-    "held": 1384,
-    "newest_in_repo": "2026-10-27",
-    "pending": 3,
-    "repo": 1384,
+    "held": 1387,
+    "newest_in_repo": "2026-11-13",
+    "pending": 0,
+    "repo": 1387,
     "source_in_scope": 1387
    },
-   "check_id": "ru-pravo-tyumen-20261124T145912Z",
-   "commits": {
-    "count": 2,
-    "from": "02ad72108afc76846f476fd5f8955d33aae31f39",
-    "to": "4ea909e0b6e889d233452512bb4d8a7ed5dfcbb6"
-   },
+   "check_id": "ru-pravo-tyumen-20261125T064304Z",
+   "commits": null,
    "corpus": "russia/tyumen/acts",
    "error": null,
-   "finished": "2026-11-24T15:00:21Z",
+   "finished": "2026-11-25T06:46:46Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region72: 1387 law-type documents listed (every page read); 1384 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region72: 1387 law-type documents listed (every page read); 1387 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "7200202611130001",
-     "7200202611130002",
-     "7200202611130004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -47,30 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "7200202611130001",
-     "7200202611130002",
-     "7200202611130004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1387 law-type documents in block region72; newest published 2026-11-13",
    "source": "pravo-tyumen",
-   "started": "2026-11-24T14:59:12Z",
+   "started": "2026-11-25T06:43:04Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
