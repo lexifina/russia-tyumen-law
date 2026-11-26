@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Tyumen Oblast: Official Internet Portal of Legal Information (region72) · `russia/tyumen/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:46 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:06 UTC**.
 - Acts held here: 1 387; current at the source: 1 387; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 

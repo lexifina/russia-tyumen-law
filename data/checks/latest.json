@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:03:25Z",
+ "generated": "2026-11-26T06:20:39Z",
  "latest": {
   "pravo-tyumen|russia/tyumen/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1387,
     "source_in_scope": 1387
    },
-   "check_id": "ru-pravo-tyumen-20261125T064304Z",
+   "check_id": "ru-pravo-tyumen-20261126T060558Z",
    "commits": null,
    "corpus": "russia/tyumen/acts",
    "error": null,
-   "finished": "2026-11-25T06:46:46Z",
+   "finished": "2026-11-26T06:06:33Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region72: 1387 law-type documents listed (every page read); 1387 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1387 law-type documents in block region72; newest published 2026-11-13",
    "source": "pravo-tyumen",
-   "started": "2026-11-25T06:43:04Z",
+   "started": "2026-11-26T06:05:58Z",
    "unexplained": 0,
    "update": {
     "parts": []
